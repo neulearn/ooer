@@ -1,10 +1,11 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: TP Vision Private Limited. , Bengaluru
+  #link: Link to company (optional)
+  job_title: UI Developer
+  dates: May 2019- June 2019
+  #quote: >
+  # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Developed a multi-threaded logging system for Smart TV’s.
+    - UI was designed using Tkinter and the port data was captured through PySerial.
